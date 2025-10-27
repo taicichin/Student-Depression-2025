@@ -12,5 +12,5 @@ This project focuses on the following learning goals:
 
 * ## 💾 Data Source
 
-* **Source:** Kaggle (https://www.kaggle.com/code/taincichin/depression-student)
+* **Source:** Kaggle ([Depression Student Dataset](https://www.kaggle.com/datasets/ikynahidwin/depression-student-dataset))
 * **Status:** Work in Progress. I will be updating this section with key insights as the analysis progresses.
