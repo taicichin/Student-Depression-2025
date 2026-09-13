@@ -13,4 +13,6 @@ This project focuses on the following learning goals:
 * ## 💾 Data Source
 
 * **Source:** Kaggle ([Depression Student Dataset](https://www.kaggle.com/datasets/ikynahidwin/depression-student-dataset))
-* **Status:** Work in Progress. I will be updating this section with key insights as the analysis progresses.
+* **Description:** This dataset examines the connection between mental health and various demographic, academic, and lifestyle factors.
+* **Technologies:** Python, Pandas, Seaborn, Matplotlib, Scipy
+* **Conclusions:** Depressed students are more likely to have unhealthy dietary habits (p = 1.06e-04), lower study satisfaction (p = 2.54e-09), higher financial stress (p = 3.03e-09) and higher academic pressure (p = 1.39e-27).
